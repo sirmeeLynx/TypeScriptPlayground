@@ -1,0 +1,9 @@
+.nyc_output
+coverage
+node_modules
+docs/typedoc/*
+*.sh
+npm-debug.log
+dist
+.env.local
+.env.*.local
